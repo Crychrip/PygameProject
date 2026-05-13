@@ -8,23 +8,23 @@
 
 ## ✨ 主要特性
 
-- **🌍 无缝生成地形 + 六种生态群落**  
+- **🌍 无缝生成地形 + 六种生态群落**   
   基于双维度 Perlin 噪声实时生成 **热带雨林、沙漠、温带森林、草原、苔原、冰川** 六种生物群落  
   通过种子使每局生成的地图不同
 
-- **🗺️ 生成动态小地图**  
+- **🗺️ 生成动态小地图**   
   小地图使用色块代表六种地形，原点代表角色当前位置  
   仅显示玩家已探索区域，未探索区域保持黑色（迷雾模式）      
 
-- **⚔️ 类幸存者战斗模式（肉鸽）**  
+- **⚔️ 类幸存者战斗模式（肉鸽）**   
   自动旋转武器击杀怪物、自动吸收经验升级、升级时三选一词条强化  
   击杀敌人掉落材料，靠近自动吸取  
 
-- **🏕️ 营地建设 + 工作台合成**  
+- **🏕️ 营地建设 + 工作台合成**   
   战斗获得的材料用于升级 **铁匠铺、训练场、魔法塔、仓库** ，永久提升角色属性   
   营地中自由移动，可与建筑交互升级，与工作台交互合成道具  
 
-- **🎒 装备 + 消耗品系统**  
+- **🎒 装备 + 消耗品系统**   
   消耗材料可合成并使用装备或道具，如：  
    - **铁镐**（增加材料掉落）  
    - **生命药水**（永久提升最大生命）等  
@@ -56,3 +56,13 @@ PygameProject/
 ├── world/                  # 地图生成、相机、小地图  
 ├── assets/                 # 贴图资源  
 └── data/                   # 存档文件  
+
+## 🏜️ 游戏截图  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E5%8D%87%E7%BA%A7.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E5%90%88%E6%88%90.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E5%9C%BA%E6%99%AF1.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E5%9C%BA%E6%99%AF2.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E5%9C%BA%E6%99%AF3.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E8%83%8C%E5%8C%85.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E8%90%A5%E5%9C%B0.png)  
+![image](https://github.com/Crychrip/PygameProject/blob/main/assets/display/%E8%A3%85%E5%A4%87.png)  

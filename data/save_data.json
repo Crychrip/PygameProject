@@ -1,0 +1,21 @@
+{
+    "materials": 66,
+    "buildings": {
+        "\u94c1\u5320\u94fa": 1,
+        "\u8bad\u7ec3\u573a": 0,
+        "\u9b54\u6cd5\u5854": 0,
+        "\u4ed3\u5e93": 1
+    },
+    "inventory": {
+        "scrap": 20,
+        "crystal": 4,
+        "wood": 24,
+        "cactus": 12,
+        "wooden_plank": 2,
+        "health_potion": 4
+    },
+    "equipped_items": [
+        "health_potion",
+        "iron_pickaxe"
+    ]
+}
